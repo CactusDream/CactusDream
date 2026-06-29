@@ -52,20 +52,9 @@
 
 `Python` `OCR` `AWS Lightsail` `Async`
 
-<!-- TODO: 실제 저장소 링크로 교체해줘 -->
-[📦 Repository →](https://github.com/CactusDream/Cephalon_Ara_Source)
+(https://github.com/CactusDream/Cephalon_Ara)
 
 *A Korean-localization desktop add-on for the game Warframe — live pricing, riven analysis, real-time world state. Self-hosted and operated on AWS Lightsail, serving ~200 daily users.*
-
-<br>
-
-### 📜 학습 로드맵 (Certifications & Roadmap)
-
-- [x] 리눅스마스터 2급 1차
-- [ ] 리눅스마스터 2급 2차 *(2026.09 응시 예정)*
-- [ ] 정보처리기사 실기 *(2026.07 응시 예정)*
-- [ ] AWS Certified Solutions Architect – Associate
-- [ ] CKA (Certified Kubernetes Administrator)
 
 <br>
 
