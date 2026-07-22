@@ -33,6 +33,8 @@
 
 `Python` `OCR` `AWS Lightsail` `Async`
 
+https://cephalonara.xyz
+
 https://github.com/CactusDream/Cephalon_Ara
 
 ---
